@@ -1,0 +1,51 @@
+.contact {
+    width: 100%;
+    padding: 50px 0;
+    margin: 80px 0;
+  }
+.contact .header{
+  padding: 25px 0;
+}
+  .contact .header span {
+    font-size: 32px;
+  }
+  
+  .contact .header h2 {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #0288d1;
+    margin: 0;
+  }
+  
+  .contact input {
+    font-size: 18px;
+    outline: none;
+    border: 1px solid #0288d1;
+    border-radius: 5px;
+  }
+  
+  .contact .masg textarea {
+    font-size: 18px;
+    outline: none;
+    resize: none;
+    height: 180px;
+    border: 1px solid #0288d1;
+    border-radius: 5px;
+  }
+  
+  .contact .btn button {
+    font-size: 23px;
+    background: #0288d1;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0288d1;
+    color: #f2f2f2;
+    -webkit-transition: all .5s linear;
+    transition: all .5s linear;
+  }
+  
+  .contact .btn button:hover {
+    background: transparent;
+    color: #0288d1;
+    border: 1px solid #0288d1;
+  }
